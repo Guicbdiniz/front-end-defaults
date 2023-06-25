@@ -5,3 +5,4 @@ A set of front-end default alternatives, tools and boiler plates to use in proje
 ## Typescript
 
 - [useGlobalState](./Typescript//useGlobalState/)
+- [protectedRoute](./Typescript//protectedRoute/)
